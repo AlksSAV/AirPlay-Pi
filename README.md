@@ -1,6 +1,6 @@
 # AirPlay Orange Pi Zero
 ----------------------
-![Screenshot](screen.jpg)
+![Screenshot](screen.png)
 Пример работы у меня на канале https://youtu.be/_VnSVz0QyMI
 
 **Commands** :
