@@ -1,8 +1,7 @@
-# AirPlay-Pi
-AirPlay Orange Pi Zero
+# AirPlay Orange Pi Zero
 ----------------------
-![alt text](https://www.robotistan.com/orange-pi-zero-256mb-board-18295-64-B.jpg)
-
+![Screenshot](screen.jpg)
+Пример работы у меня на канале https://youtu.be/_VnSVz0QyMI
 
 **Commands** :
 
