@@ -1,10 +1,12 @@
 # AirPlay Orange Pi Zero
-----------------------
+ Creating your own speakers with Airplay support. \
+ Создание своих колонок с поддержкой Airplay.
+ 
 ![Screenshot](screen.png)
 Пример работы у меня на канале https://youtu.be/_VnSVz0QyMI
 
-**Commands** :
-
+**Commands / Команды** :
+   
 * Run on Boot :
 sudo systemctl enable shairport-sync
 
