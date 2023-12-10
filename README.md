@@ -5,6 +5,11 @@
 ![Screenshot](screen.png)
 Пример работы у меня на канале https://youtu.be/_VnSVz0QyMI
 
+----------
+# Компоненты (Aliexpress)
+-  Orange Pi Zero  https://megabonus.com/y/sCX7W
+---------
+
 **Commands / Команды** :
    
 * Run on Boot :
