@@ -1,14 +1,10 @@
 # AirPlay Orange Pi Zero
- Creating your own speakers with Airplay support. \
- Создание своих колонок с поддержкой Airplay.
+ Creating your own speakers with Airplay support.
  
 ![Screenshot](screen.png)
-Пример работы у меня на канале https://youtu.be/_VnSVz0QyMI
 
-----------
-# Компоненты (Aliexpress)
--  Orange Pi Zero  https://megabonus.com/y/sCX7W
----------
+An example of the work https://youtu.be/_VnSVz0QyMI
+
 
 **Commands / Команды** :
    
